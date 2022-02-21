@@ -4,7 +4,7 @@
 
 #### Enunciado del ejercicio.
 
-##### Crea dos programas Python (funciones y programa) en el extraigas del fichero .json elegido la siguiente información:
+##### Crea dos programas Python (funciones y programa) en el extraigas de la BD MySQL/MariaDB elegida la siguiente información:
 
 1. **Listar información:** Listar el nombre de los estudios.
 2. **Buscar o filtrar información:** Pide por teclado un estudio y te informa del anime(o animes) que produce.
