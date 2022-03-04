@@ -11,4 +11,3 @@
 3. **Insertar información** Inserta un nuevo anime.
 4. **Borrar información:** Elimina los animes de un estudio.
 5. **Actualizar información** Empiezan las rebajas, pide un genero por teclado y rebaja los animes que sean de ese genero un 10%.
- 
