@@ -1,5 +1,3 @@
---base de datos (Como hacer una tabla)
---varchar (numero) cadena de caracteres ; decimal (numeros con los que se opere) ; date (fechas)
 
 CREATE DATABASE basedatos_anime;
 CREATE USER 'usuario'@'%' IDENTIFIED BY 'usuario';
