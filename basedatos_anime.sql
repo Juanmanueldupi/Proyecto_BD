@@ -1,4 +1,5 @@
 
+
 CREATE DATABASE basedatos_anime;
 CREATE USER 'usuario'@'%' IDENTIFIED BY 'usuario';
 GRANT ALL PRIVILEGES ON basedatos_anime.* to 'usuario'@'%';
